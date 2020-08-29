@@ -45,4 +45,4 @@ THEN the password is either displayed in an alert or written to the page
 
 Creators
 
-Project created by: Venus Hu Github: https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/gwu-arl-fsf-pt-08-2020-u-c.git
+Project created by: Venus Hu Github: https://github.com/Venus1001/JavaScripts-PasswordGenerator.git
