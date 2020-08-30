@@ -1,4 +1,4 @@
-# JavaScripts-PasswordGenerator
+# JavaScript-PasswordGenerator
 
 GWU Full Stack Project: 
 
