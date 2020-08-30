@@ -1,8 +1,10 @@
 # JavaScripts-PasswordGenerator
 
-GWU Full Stack Project: JavaScript: Password Generator
+GWU Full Stack Project: 
 
-Create an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+JavaScript: Password Generator
+
+This application generates a random password based on user-selected criteria. It will also feature a clean and polished user interface and be responsive.
 
 Table of contents:
 
@@ -12,20 +14,20 @@ Table of contents:
 4. Creators
 
 
-Quick start
+## Quick start
+1. Clone the repo: https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/gwu-arl-fsf-pt-08-2020-u-c.git
+2. Pull the latest code version
 
-Clone the repo: https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/gwu-arl-fsf-pt-08-2020-u-c.git
-Pull the latest code version
 
-User Story
+## User Story
 
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 
 
-Acceptance Criteria
-
+## Acceptance Criteria
+```
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
@@ -41,8 +43,10 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+```
 
+## Creators
 
-Creators
-
-Project created by: Venus Hu Github: https://github.com/Venus1001/JavaScripts-PasswordGenerator.git
+Project created by: Venus Hu 
+Github: 
+https://github.com/Venus1001/JavaScripts-PasswordGenerator.git
