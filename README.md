@@ -48,5 +48,6 @@ THEN the password is either displayed in an alert or written to the page
 ## Creators
 
 Project created by: Venus Hu 
+
 Github: 
 https://github.com/Venus1001/JavaScripts-PasswordGenerator.git
